@@ -29,5 +29,5 @@
 
 <br/> 
  <h2>Github Stats</h2> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rubensauriosD&theme=radical&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rubensauriosD&theme=onedark&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 
