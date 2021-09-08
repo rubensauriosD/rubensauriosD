@@ -1,6 +1,6 @@
 ![](https://1.bp.blogspot.com/-wGupt8x5UQY/V1KXrYUfAPI/AAAAAAAAAlQ/dpES8W7OZoU5erI2iIBqDIIuSxQduodTgCLcB/s1600/anigif_enhanced-buzz-24540-1374525281-13.gif)
 
-##👋 Hi, I’m @rubensauriosD
+### 👋 Hi, I’m @rubensauriosD
 
 - My name is Ruben Alejandro Bazan and I'm Full Stack Developer 🚀
 - 🧠 I'm currently interested on start working in the industry.
@@ -13,8 +13,9 @@
 <img src="https://user-images.githubusercontent.com/83410864/132431781-56df5173-e8b2-4ac6-ac56-059f33cc4d0d.png" align="center" style="width: 60%" "height : 50%" />
 </div>
 
+### Connect with me  
+
 <br/>  
-## Connect with me  
 <div align="center">
 <a href="https://github.com/rubensauriosD" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
