@@ -6,6 +6,7 @@
 - 🧠 I'm currently interested on start working in the industry.
 - 🔭 I’m currently working on my final project to finish Henry Bootcamp.
 - 📫 How to reach me on Email at [Ruben Bazan](mailto:rubenalejandro23@gmail.com)  
+- Mi portfolio https://rubenbazan.netlify.app/.
 
 <br/>
 <h2>Skills and Soft-Skills</h2>
