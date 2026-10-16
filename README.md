@@ -1,3 +1,5 @@
+![Animated geometric artwork](https://1.bp.blogspot.com/-wGupt8x5UQY/V1KXrYUfAPI/AAAAAAAAAlQ/dpES8W7OZoU5erI2iIBqDIIuSxQduodTgCLcB/s1600/anigif_enhanced-buzz-24540-1374525281-13.gif)
+
 # Ruben Bazan
 
 Software Developer at Mercado Libre, focused on backend development, API integrations and technical workflow automation.
