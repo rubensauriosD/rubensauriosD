@@ -18,10 +18,10 @@ I work with Go and Java on payment systems, automated testing, troubleshooting a
 
 | Project | What it does | Technologies |
 | --- | --- | --- |
-| LoL Personal Stats Tracker | A dashboard integrating Riot Games APIs, with local caching and API rate limit handling. | Python, SQLite, JavaScript |
-| FitApp | A workout, nutrition and pantry application with local data persistence and import/export. | JavaScript, Electron |
+| [LoL Personal Stats Tracker](https://github.com/rubensauriosD/lol-stats) | A dashboard integrating Riot Games APIs, with local caching and API rate limit handling. | Python, SQLite, JavaScript |
+| [FitApp](https://github.com/rubensauriosD/FitApp) | A workout, nutrition and pantry application with local data persistence and import/export. | JavaScript, Electron |
 
-Public repositories and demos for these projects are being prepared. My older repositories include learning projects and full-stack applications built during my training.
+Both projects have public source code and local setup instructions. My older repositories include learning projects and full-stack applications built during my training.
 
 ## Freelance work
 
